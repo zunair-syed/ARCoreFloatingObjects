@@ -1,0 +1,68 @@
+newmtl Back
+Ka 0 0 0
+Kd 0.0784314 0.0784314 0.0784314
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Back 02.jpg
+
+newmtl Bottom
+Ka 0 0 0
+Kd 0.0784314 0.0784314 0.0784314
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Bottom.jpg
+
+newmtl Front
+Ka 0 0 0
+Kd 0.0784314 0.0784314 0.0784314
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Front.jpg
+
+newmtl Side
+Ka 0 0 0
+Kd 0.0784314 0.0784314 0.0784314
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Side.jpg
+
+newmtl Skin
+Ka 0 0 0
+Kd 0.0784314 0.0784314 0.0784314
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Skin_Other
+Ka 0 0 0
+Kd 0.235294 0.235294 0.235294
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Top
+Ka 0 0 0
+Kd 0.0784314 0.0784314 0.0784314
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Top 02.jpg
+
