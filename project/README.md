@@ -1,7 +1,15 @@
-Google AR SDK
-=====================
-Copyright (c) 2017 Google Inc.  All rights reserved.
 
-[https://developers.google.com/ar/develop/java/getting-started](https://developers.google.com/ar/develop/java/getting-started)
+## ARCore Floating Objects
+Create Floating objects by touching any point in the screen. 
 
-Please note, we do not accept pull requests.
+
+
+#### Demo
+
+[![Video Demo At https://www.youtube.com/watch?v=n6iV6UAy-dc](thumbnail_video_demo2.png
+)](https://www.youtube.com/watch?v=n6iV6UAy-dc "Video Demo At https://www.youtube.com/watch?v=n6iV6UAy-dc")
+
+ 
+
+
+
