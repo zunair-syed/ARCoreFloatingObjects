@@ -25,7 +25,6 @@ import com.google.ar.core.Session;
 import me.zunair.syed.ar.core.floating.objects.rendering.BackgroundRenderer;
 import me.zunair.syed.ar.core.floating.objects.rendering.ObjectRenderer;
 import me.zunair.syed.ar.core.floating.objects.rendering.ObjectRenderer.BlendMode;
-import me.zunair.syed.ar.core.floating.objects.rendering.PlaneAttachment;
 
 import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;
@@ -65,7 +64,6 @@ public class FloatingObjectsArActivity extends AppCompatActivity implements GLSu
 
     // Tap handling and UI.
     private ArrayBlockingQueue<MotionEvent> mQueuedSingleTaps = new ArrayBlockingQueue<>(16);
-    private ArrayList<PlaneAttachment> mTouches = new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
