@@ -10,7 +10,9 @@ Create Floating Androids (in World-Space) by touching any point in the screen.
  
 
 #### Set up your development environment
+
 -Install Android Studio version 2.3 or higher with Android SDK Platform version 7.0 (API level 24) or higher.
+
 -You will need a supported Android device (Google Pixel, Pixel XL, Pixel 2, Pixel 2 XL, Samsung Galaxy S8 NOT S8+)
 
 ###### Steps To Setup
@@ -23,5 +25,5 @@ If your Androids are moving away as you approach them, or moving in an unexpecte
 
 
 
-#######**By: Zunair Syed*
+*By: Zunair Syed*
 
